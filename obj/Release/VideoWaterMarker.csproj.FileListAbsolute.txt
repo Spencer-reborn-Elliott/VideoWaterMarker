@@ -1,0 +1,13 @@
+C:\Users\Spencer\source\repos\VideoWaterMarker\bin\Release\VideoWaterMarker.exe.config
+C:\Users\Spencer\source\repos\VideoWaterMarker\bin\Release\VideoWaterMarker.exe
+C:\Users\Spencer\source\repos\VideoWaterMarker\bin\Release\VideoWaterMarker.pdb
+C:\Users\Spencer\source\repos\VideoWaterMarker\obj\Release\VideoWaterMarker.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\VideoWaterMarker\obj\Release\VideoWaterMarker.Form1.resources
+C:\Users\Spencer\source\repos\VideoWaterMarker\obj\Release\VideoWaterMarker.Properties.Resources.resources
+C:\Users\Spencer\source\repos\VideoWaterMarker\obj\Release\VideoWaterMarker.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\VideoWaterMarker\obj\Release\VideoWaterMarker.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\VideoWaterMarker\obj\Release\VideoWaterMarker.exe
+C:\Users\Spencer\source\repos\VideoWaterMarker\obj\Release\VideoWaterMarker.pdb
+C:\Users\Spencer\source\repos\VideoWaterMarker\bin\Release\NReco.VideoConverter.dll
+C:\Users\Spencer\source\repos\VideoWaterMarker\bin\Release\NReco.VideoConverter.xml
+C:\Users\Spencer\source\repos\VideoWaterMarker\obj\Release\VideoWaterMarker.csproj.CopyComplete
